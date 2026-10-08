@@ -31,4 +31,4 @@ def discount(price):
 
 # Call the main function.
 main()
-
+print(end of program)
